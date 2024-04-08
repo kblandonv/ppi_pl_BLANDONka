@@ -1,4 +1,4 @@
-# Bienvenido a mi repositorio de servicios como Freelancer Desarrollador Django Junior
+# Bienvenido a mi repositorio de servicios como Freelancer Desarrollador Django
 
 Soy Kevin Andrés Blandón Vélez, estudiante de ingeniería de sistemas en el octavo semestre con una pasión por la programación y el desarrollo de software. Este repositorio de GitHub está diseñado para proporcionarte información sobre mí y los servicios que ofrezco como desarrollador freelancer.
 
