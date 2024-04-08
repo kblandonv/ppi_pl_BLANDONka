@@ -1,12 +1,9 @@
-# Triduum_test
-
 ## Table of Contents
-- [Triduum\_test](#triduum_test)
-  - [Table of Contents](#table-of-contents)
-  - [General Info](#general-info)
-  - [Technologies](#technologies)
-  - [Installation](#installation)
-  - [SQL](#sql)
+- [Table of Contents](#table-of-contents)
+- [General Info](#general-info)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [SQL](#sql)
 ***
 
 ## General Info
