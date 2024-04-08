@@ -1,14 +1,17 @@
 # django_news
 
 ## Table of Contents 
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Screenshots](#screenshots)
+- [django\_news](#django_news)
+  - [Table of Contents](#table-of-contents)
+  - [General Info](#general-info)
+  - [Technologies](#technologies)
+  - [Installation](#installation)
+  - [Screenshots](#screenshots)
+  - [](#)
 ***
 
 ## General Info
-News website built in Django web framework using Python. This a news website project was developed by Kevin Andres Blandon Velez for KeepUp!
+News website built in Django web framework using Python. This a news website project was developed by Kevin Andres Blandon Velez.
 
 ## Technologies
 ***
