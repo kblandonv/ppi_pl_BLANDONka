@@ -29,6 +29,7 @@ Implementación de soluciones Docker.
 
 Desarrollo y diseño de API RESTful.
 
+Aquí puede encontrar los precios para el desarrollo de integraciones, aplicaciones web o de desarrollos completos. [![fiverr]] (https://www.fiverr.com/kblandonv/help-build-amazing-apis-and-applications-with-django)
 
 ## ¿Cómo Puedo Ayudarte?
 
