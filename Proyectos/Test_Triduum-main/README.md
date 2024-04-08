@@ -10,7 +10,7 @@
 ***
 
 ## General Info
-Ecommerce API built in Django rest framework using Python.  Project was developed by Kevin Andres Blandon Velez for Triduum.
+Ecommerce API built in Django rest framework using Python.  Project was developed by Kevin Andres Blandon Velez.
 
 ## Technologies
 ***
@@ -42,10 +42,9 @@ ecommerceapi\Scripts
 
 Question: QUEREMOS SABER DE LAS ORDENES, CUANTAS TIENEN EL PRODUCTO 2.
 
-The solution to the question posed by Juan Jose, is in the file ecommerceapi\Scripts\consulta_ordenes_cantidad.sql
+The solution to the question is in the file ecommerceapi\Scripts\consulta_ordenes_cantidad.sql
 
-And Question: Una vez finalizado el desarrollo de estas funcionalidades, se requiere la creación de una
-consulta SQL que permita saber cual es el producto que más ha sido ordenado y en qué
+And Question: se requiere la creación de una consulta SQL que permita saber cual es el producto que más ha sido ordenado y en qué
 cantidades (se requiere mínimo la creación de 2 órdenes con el mismo producto para
 realizar esta consulta).
 The solution to the question is in the file ecommerceapi\Scripts\consulta_producto_mas_ordenado_y_cantidades.sql
