@@ -29,14 +29,14 @@ Implementación de soluciones Docker.
 
 Desarrollo y diseño de API RESTful.
 
-Aquí puede encontrar los precios para el desarrollo de integraciones, aplicaciones web o de desarrollos completos. [![fiverr]] (https://www.fiverr.com/kblandonv/help-build-amazing-apis-and-applications-with-django)
+Aquí puede encontrar los precios para el desarrollo de integraciones, aplicaciones web o de desarrollos completos. (https://www.fiverr.com/kblandonv/help-build-amazing-apis-and-applications-with-django)
 
 ## ¿Cómo Puedo Ayudarte?
 
 Si estás buscando un colaborador para tu proyecto o necesitas ayuda con el desarrollo de software, ¡no dudes en ponerte en contacto conmigo! Estoy disponible para discutir tus ideas y encontrar la mejor manera de trabajar juntos.
 A continuación encontrará mi perfil de Fiverr y de Linkedin
 ## 🔗 Links
-[![fiverr](https://www.fiverr.com/s/8L4dRz)](https://www.fiverr.com/s/8L4dRz)
+(https://www.fiverr.com/s/8L4dRz)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kblandonv/)
 
 
