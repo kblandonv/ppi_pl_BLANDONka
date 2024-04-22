@@ -34,11 +34,14 @@ Aquí puede encontrar los precios para el desarrollo de integraciones, aplicacio
 ## ¿Cómo Puedo Ayudarte?
 
 Si estás buscando un colaborador para tu proyecto o necesitas ayuda con el desarrollo de software, ¡no dudes en ponerte en contacto conmigo! Estoy disponible para discutir tus ideas y encontrar la mejor manera de trabajar juntos.
-A continuación encontrará mi perfil de Fiverr, Linkedin y StackOverFlow
+A continuación encontrará mi perfil de Fiverr, Linkedin, StackOverFlow y UpWork.
 ## 🔗 Links
-(https://www.fiverr.com/s/8L4dRz)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kblandonv/)
-[![stackoverflow](https://stackoverflow.com/users/20948707/andresbv03)](https://stackoverflow.com/users/20948707/andresbv03)
+[![stackoverflow](https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20948707/andresbv03)
+[![upwork](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015ab859f38f808868?mp_source=share)
+[![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/8L4dRz)
+
+
 
 
 ## Autor
