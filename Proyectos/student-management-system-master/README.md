@@ -2,7 +2,7 @@
 
 This is a student management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** with a **Bootswatch** theme.
 
-![plot](Proyectos/student-management-system-master/students/static/images/homepage.png?raw=true)
+![plot](https://github.com/kblandonv/ppi_pl_BLANDONka/blob/main/Proyectos/student-management-system-master/students/static/images/homepage.png?raw=true)
 
 
 ## Table of Contents 
