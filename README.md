@@ -48,6 +48,14 @@ Below, you will find my profiles on Fiverr, Linkedin, StackOverflow, and UpWork.
 
 Soy Kevin Andrés Blandón Vélez, estudiante de ingeniería de sistemas en el octavo semestre con una pasión por la programación y el desarrollo de software. Este repositorio de GitHub está diseñado para proporcionarte información sobre mí y los servicios que ofrezco como desarrollador freelancer.
 
+### Proyectos
+
+1. [Student Management System](https://github.com/kblandonv/student-management-system-master)
+2. [Test Triduum](https://github.com/kblandonv/Test_Triduum)
+3. [Django News](https://github.com/kblandonv/django_news)
+4. [Face Django App](https://github.com/kblandonv/FaceDjangoApp-main)
+5. [Chat app Django](https://github.com/kblandonv/django-chat-app-main)
+
 
 ## Experiencia
 
